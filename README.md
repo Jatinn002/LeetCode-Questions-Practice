@@ -22,4 +22,12 @@ Daily LeetCode Questions Practice and Optimal Solution
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1291-sequential-digits) |
+## Array
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0134-gas-station) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->

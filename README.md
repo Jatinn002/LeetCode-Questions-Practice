@@ -26,8 +26,21 @@ Daily LeetCode Questions Practice and Optimal Solution
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0134-gas-station) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Greedy
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0134-gas-station) |
+## Math
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->

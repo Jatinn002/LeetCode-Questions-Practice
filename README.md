@@ -38,6 +38,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +47,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Tree
 |  |
 | ------- |

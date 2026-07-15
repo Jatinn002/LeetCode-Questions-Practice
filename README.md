@@ -53,6 +53,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0572-subtree-of-another-tree) |
@@ -69,6 +70,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0572-subtree-of-another-tree) |
@@ -76,6 +78,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 ## String Matching
 |  |
 | ------- |

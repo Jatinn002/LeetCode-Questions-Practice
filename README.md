@@ -28,6 +28,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 ## Array
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0134-gas-station) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -57,6 +58,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [0094-binary-tree-inorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0145-binary-tree-postorder-traversal) |
@@ -76,6 +78,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [0094-binary-tree-inorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0145-binary-tree-postorder-traversal) |
@@ -106,4 +109,12 @@ Daily LeetCode Questions Practice and Optimal Solution
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->

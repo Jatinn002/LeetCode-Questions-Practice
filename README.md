@@ -67,6 +67,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [0144-binary-tree-preorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0572-subtree-of-another-tree) |
+| [0938-range-sum-of-bst](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [0144-binary-tree-preorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0572-subtree-of-another-tree) |
+| [0938-range-sum-of-bst](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -87,6 +89,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [0144-binary-tree-preorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0572-subtree-of-another-tree) |
+| [0938-range-sum-of-bst](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -143,4 +146,8 @@ Daily LeetCode Questions Practice and Optimal Solution
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1260-shift-2d-grid) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->

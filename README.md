@@ -25,6 +25,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Array
 |  |
 | ------- |
@@ -100,6 +101,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0572-subtree-of-another-tree) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Hash Function
 |  |
 | ------- |

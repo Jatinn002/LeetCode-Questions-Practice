@@ -32,6 +32,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0134-gas-station) |
+| [0200-number-of-islands](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0200-number-of-islands) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1260-shift-2d-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -84,6 +85,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [0112-path-sum](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0200-number-of-islands) |
 | [0572-subtree-of-another-tree](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0617-merge-two-binary-trees) |
 | [0938-range-sum-of-bst](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0938-range-sum-of-bst) |
@@ -107,6 +109,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [0100-same-tree](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0200-number-of-islands) |
 | [0617-merge-two-binary-trees](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0617-merge-two-binary-trees) |
 ## String Matching
 |  |
@@ -160,6 +163,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1260-shift-2d-grid) |
 ## Binary Search Tree
 |  |
@@ -178,4 +182,8 @@ Daily LeetCode Questions Practice and Optimal Solution
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

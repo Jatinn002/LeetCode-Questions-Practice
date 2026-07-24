@@ -2,23 +2,29 @@ class Solution {
 public:
     int uniqueXorTriplets(vector<int>& nums) {
 
-        int n = nums.size();
+        int mx = *max_element(nums.begin(), nums.end());
 
-        unordered_set<int> pairXor;
-        unordered_set<int> ans;
+        int limit = 1;
+        while (limit <= mx)
+            limit <<= 1;
 
-        for (int i = 0; i < n; i++) {
-            for (int j = i; j < n; j++) {
-                pairXor.insert(nums[i] ^ nums[j]);
-            }
+        vector<bool> pair(limit, false);
+        vector<bool> triplet(limit, false);
+
+        // All possible XOR of two numbers
+        for (int a : nums)
+            for (int b : nums)
+                pair[a ^ b] = true;
+
+        // XOR with third number
+        for (int x = 0; x < limit; x++) {
+            if (!pair[x])
+                continue;
+
+            for (int num : nums)
+                triplet[x ^ num] = true;
         }
 
-        for (int x : pairXor) {
-            for (int num : nums) {
-                ans.insert(x ^ num);
-            }
-        }
-
-        return ans.size();
+        return count(triplet.begin(), triplet.end(), true);
     }
 };

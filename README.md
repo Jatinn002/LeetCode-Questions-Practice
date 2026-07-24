@@ -34,6 +34,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1260-shift-2d-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -114,6 +115,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [0112-path-sum](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0200-number-of-islands) |
 | [0617-merge-two-binary-trees](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0617-merge-two-binary-trees) |
+| [0994-rotting-oranges](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0994-rotting-oranges) |
 ## String Matching
 |  |
 | ------- |
@@ -167,6 +169,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1260-shift-2d-grid) |
 ## Binary Search Tree
 |  |

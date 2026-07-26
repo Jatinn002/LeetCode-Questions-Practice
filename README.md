@@ -34,6 +34,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0200-number-of-islands) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0994-rotting-oranges](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1260-shift-2d-grid) |
@@ -50,6 +51,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -134,6 +136,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation

@@ -34,6 +34,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0200-number-of-islands) |
+| [0486-predict-the-winner](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0994-rotting-oranges) |
@@ -54,6 +55,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -67,6 +69,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -222,4 +225,12 @@ Daily LeetCode Questions Practice and Optimal Solution
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

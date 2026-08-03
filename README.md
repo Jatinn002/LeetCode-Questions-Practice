@@ -43,6 +43,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [1260-shift-2d-grid](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1672-richest-customer-wealth](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1672-richest-customer-wealth) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -200,6 +201,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [0733-flood-fill](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1260-shift-2d-grid) |
+| [1672-richest-customer-wealth](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1672-richest-customer-wealth) |
 ## Binary Search Tree
 |  |
 | ------- |

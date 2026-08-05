@@ -115,6 +115,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [0617-merge-two-binary-trees](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0733-flood-fill) |
 | [0938-range-sum-of-bst](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0938-range-sum-of-bst) |
+| [3310-remove-methods-from-project](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -139,6 +140,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [0617-merge-two-binary-trees](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0994-rotting-oranges) |
+| [3310-remove-methods-from-project](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3310-remove-methods-from-project) |
 ## String Matching
 |  |
 | ------- |
@@ -256,4 +258,8 @@ Daily LeetCode Questions Practice and Optimal Solution
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1406-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->

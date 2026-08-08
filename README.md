@@ -58,6 +58,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | ------- |
 | [0134-gas-station](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0134-gas-station) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +83,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [0486-predict-the-winner](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -148,6 +150,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0572-subtree-of-another-tree) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -159,6 +162,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 ## Two Pointers
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |

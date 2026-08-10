@@ -67,6 +67,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [0877-stone-game](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -83,6 +84,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [0486-predict-the-winner](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
@@ -256,16 +258,27 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [0486-predict-the-winner](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1510-stone-game-iv) |
 ## Graph Theory
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3310-remove-methods-from-project) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->

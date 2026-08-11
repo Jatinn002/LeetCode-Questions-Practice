@@ -46,6 +46,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [1406-stone-game-iii](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1672-richest-customer-wealth) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -171,6 +172,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3731-find-missing-elements) |
@@ -184,6 +186,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3731-find-missing-elements) |

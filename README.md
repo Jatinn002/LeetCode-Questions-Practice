@@ -156,6 +156,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [0572-subtree-of-another-tree](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0572-subtree-of-another-tree) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -191,6 +192,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3731-find-missing-elements) |
@@ -293,6 +295,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Ordered Set
 |  |
 | ------- |

@@ -40,6 +40,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -209,6 +210,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Combinatorics
@@ -306,4 +308,8 @@ Daily LeetCode Questions Practice and Optimal Solution
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->

@@ -35,6 +35,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0134-gas-station) |
+| [0162-find-peak-element](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0200-number-of-islands) |
 | [0486-predict-the-winner](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -209,6 +210,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0162-find-peak-element) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3312-sorted-gcd-pair-queries) |

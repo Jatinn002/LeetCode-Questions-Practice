@@ -32,6 +32,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0134-gas-station) |
@@ -211,6 +212,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0162-find-peak-element) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |

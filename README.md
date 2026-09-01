@@ -50,6 +50,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [1406-stone-game-iii](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1672-richest-customer-wealth) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |

@@ -49,6 +49,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |

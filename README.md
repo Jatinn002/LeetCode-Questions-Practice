@@ -37,6 +37,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0200-number-of-islands) |
 | [0486-predict-the-winner](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -73,6 +74,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0877-stone-game) |
@@ -177,6 +179,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0189-rotate-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting

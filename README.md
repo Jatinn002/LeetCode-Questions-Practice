@@ -49,6 +49,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1260-shift-2d-grid](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -186,6 +187,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -202,6 +204,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -274,6 +277,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 ## Counting Sort
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Recursion
 |  |

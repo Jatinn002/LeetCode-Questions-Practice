@@ -34,6 +34,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0162-find-peak-element) |
@@ -213,6 +214,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |

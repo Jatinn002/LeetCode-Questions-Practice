@@ -39,6 +39,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [0162-find-peak-element](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0200-number-of-islands) |
+| [0287-find-the-duplicate-number](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -184,6 +185,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0986-interval-list-intersections](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0986-interval-list-intersections) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -226,6 +228,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [0033-search-in-rotated-sorted-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -269,6 +272,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0287-find-the-duplicate-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Union-Find
@@ -334,4 +338,12 @@ Daily LeetCode Questions Practice and Optimal Solution
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0986-interval-list-intersections) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

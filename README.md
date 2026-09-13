@@ -44,6 +44,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0645-set-mismatch) |
 | [0733-flood-fill](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -195,6 +196,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -214,6 +216,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -276,6 +279,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0645-set-mismatch) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Union-Find

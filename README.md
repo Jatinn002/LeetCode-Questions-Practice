@@ -32,6 +32,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0041-first-missing-positive) |
@@ -187,6 +188,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0986-interval-list-intersections](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0986-interval-list-intersections) |
@@ -195,6 +197,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0015-3sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0645-set-mismatch) |

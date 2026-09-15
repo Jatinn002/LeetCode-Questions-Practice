@@ -38,6 +38,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [0041-first-missing-positive](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0200-number-of-islands) |
@@ -283,6 +284,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0645-set-mismatch) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |

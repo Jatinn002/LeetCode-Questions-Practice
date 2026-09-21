@@ -173,6 +173,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 ## String Matching
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0572-subtree-of-another-tree](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0572-subtree-of-another-tree) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -218,6 +219,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -338,6 +340,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Ordered Set

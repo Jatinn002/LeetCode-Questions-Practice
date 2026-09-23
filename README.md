@@ -63,6 +63,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1470-shuffle-the-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1672-richest-customer-wealth) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -228,6 +229,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -247,6 +249,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [0287-find-the-duplicate-number](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Combinatorics
@@ -262,6 +265,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Matrix
 |  |
@@ -344,6 +348,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Ordered Set

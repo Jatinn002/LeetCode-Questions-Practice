@@ -15,7 +15,7 @@ public:
 
         for (int right = 0; right < n; right++) {
             sum += nums[right];
-            while (sum > target) {
+            while (sum > target && left <= right) {
                 sum -= nums[left];
                 left++;
             }

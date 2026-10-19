@@ -17,11 +17,13 @@ Daily LeetCode Questions Practice and Optimal Solution
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0933-number-of-recent-calls) |
 ## Enumeration
 |  |
 | ------- |
@@ -371,4 +373,8 @@ Daily LeetCode Questions Practice and Optimal Solution
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0287-find-the-duplicate-number) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->

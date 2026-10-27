@@ -17,12 +17,14 @@ Daily LeetCode Questions Practice and Optimal Solution
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0933-number-of-recent-calls) |
 ## Enumeration
 |  |
@@ -48,6 +50,7 @@ Daily LeetCode Questions Practice and Optimal Solution
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0486-predict-the-winner) |
+| [0622-design-circular-queue](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0645-set-mismatch) |
 | [0733-flood-fill](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0733-flood-fill) |
@@ -377,4 +380,8 @@ Daily LeetCode Questions Practice and Optimal Solution
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0933-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Jatinn002/LeetCode-Questions-Practice/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
